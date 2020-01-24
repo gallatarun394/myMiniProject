@@ -1,0 +1,13 @@
+h1,th,td{
+    text-align: center;
+}
+.btn{
+    margin-left: 50px;
+}
+#submit{
+    margin-left: 600px;
+}
+table{
+    margin : auto;
+}
+

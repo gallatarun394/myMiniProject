@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: #000000;
+    font-family: 'Gelasio', serif;
+
+}
+
+.jumbotron{
+    background-color: #dee0e0;
+    margin : auto;
+    height: 400px;
+    width: 600px;
+}
+
+#jumbo{
+    height: 880px;
+    text-align: center;
+
+}
+#submit{
+    margin-left: 450px;
+}
+nav{
+    padding-left: 100px;
+}
